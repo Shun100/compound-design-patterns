@@ -1,0 +1,27 @@
+{
+  "name": "compound-design-patterns",
+  "version": "1.0.0",
+  "description": "複数のデザインパターンを組み合わせた複合的な実装例をまとめる",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsx"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shun100/compound-design-patterns.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Shun100/compound-design-patterns/issues"
+  },
+  "homepage": "https://github.com/Shun100/compound-design-patterns#readme",
+  "devDependencies": {
+    "@types/node": "^26.2.0",
+    "tsx": "^4.23.12",
+    "typescript": "^7.0.2"
+  }
+}
