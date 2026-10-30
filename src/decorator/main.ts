@@ -1,5 +1,5 @@
-import { Logger, TimestampDecorator, LogLevelDecorator } from "./basic/decorator.js";
-import { DecoratorBuilder } from "./compound/decorator-builder.js";
+import { Logger, TimestampDecorator, LogLevelDecorator } from "./decorator.js";
+import { DecoratorBuilder } from "./decorator-builder.js";
 
 function runBasic() {
   const logger = new Logger();
