@@ -1,5 +1,0 @@
-{
-  "logger": {
-    "filePath": "src/decorator/log/app.log"
-  }
-}
